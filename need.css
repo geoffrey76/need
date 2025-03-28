@@ -29,14 +29,10 @@ input{
 }
 a{
     color: red;
-}
-button{
     margin: auto;
-    margin-top: 10px;
-    color: red;
-    background-color: black;
-    width: 10%;
+    margin-top: 5px;
 }
+
 a:visited{
     color: red;
 }
